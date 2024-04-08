@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.virtual_documents/
+.idea/
+presentations/
+*.pptx
+*.sh
+__pycache__/
+*.pdf
+*.yml
